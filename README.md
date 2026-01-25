@@ -26,6 +26,19 @@
 ## craete a table 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8e9b6448-4612-460b-a0eb-401f2d736470" />
 
+## Datatype in Big Query
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/23d81423-c979-4d49-ab8f-e67252e0d126" />
+
+## creating database in BigQuery
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/68136c15-53fb-4457-8061-2be67ea924f6" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fdd32172-6d91-42bb-9f88-f8c09f297858" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8cdac141-6535-44e3-a31c-6f63f822f531" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/26b70cb2-cddc-441e-ba79-fb482759e697" />
+
+
+
+
 
 
 
