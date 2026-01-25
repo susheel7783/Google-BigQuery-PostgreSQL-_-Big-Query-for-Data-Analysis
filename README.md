@@ -23,7 +23,8 @@
 ## test database created
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9f9ef369-fe73-4598-885d-ace8e2d388d9" />
 
-
+## craete a table 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8e9b6448-4612-460b-a0eb-401f2d736470" />
 
 
 
