@@ -41,6 +41,13 @@
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3b94a5fb-b768-4fc6-9072-0f19086113dc" />
 
+## missed col deliberately
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b06dbc65-9197-416c-8f9f-a0739a8b6083" />
+
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9bd5aacd-7cb4-4c78-ac72-0a5f9de20c73" />
+
+
 
 
 
