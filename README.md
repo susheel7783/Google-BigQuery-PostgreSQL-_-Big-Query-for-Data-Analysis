@@ -36,6 +36,13 @@
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8cdac141-6535-44e3-a31c-6f63f822f531" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/26b70cb2-cddc-441e-ba79-fb482759e697" />
 
+## inserting values in table in postgres
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/47dbfb9c-6419-4c3d-905d-004401d6b99d" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3b94a5fb-b768-4fc6-9072-0f19086113dc" />
+
+
+
 
 
 
