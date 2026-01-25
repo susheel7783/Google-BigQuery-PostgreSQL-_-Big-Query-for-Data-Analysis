@@ -47,7 +47,10 @@
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9bd5aacd-7cb4-4c78-ac72-0a5f9de20c73" />
 
+## inserting many values
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fecbc014-f49a-40b3-bdef-c1e958a1992b" />
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/951c02d4-990f-4db3-81a3-2c1bb90db9b8" />
 
 
 
