@@ -12,6 +12,20 @@
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8faaa312-61ea-4698-be6e-e2634d0b3f9f" />
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/94e06b11-7a83-4e0a-afb3-04c34883c2ee" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/be0e5eef-48b3-43a4-a1ce-f549b147f60d" />
+
+## creating database in pgAdmin postgres
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/be57fd3b-2865-47c6-b010-ea044819634f" />
+
+
+## test database created
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9f9ef369-fe73-4598-885d-ace8e2d388d9" />
+
+
+
+
 
 
 
