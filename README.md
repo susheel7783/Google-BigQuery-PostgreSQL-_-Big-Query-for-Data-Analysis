@@ -89,6 +89,9 @@ select * from table_name
 ## statement in big query
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/6e831257-1407-4396-9e68-36100199cbc3" />
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/64393dd4-f950-42af-a04b-e13347f9bf19" />
+
+
 
 
 
