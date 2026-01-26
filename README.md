@@ -71,7 +71,11 @@
 
 ## and in advanced option  you can give number of error allowed and it will ignore this number of error 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/789c4b51-1a06-455f-9f51-98d5b752c9dd" />
-# and you can give 1 for skip header row
+# and you can give 1 for skip header row and then click on create table you will see the table in dataset and from google cloud ui we can upload any data but here some limitation of data but in cloud sdk we can upload any amount of data
+
+## for uploading big data (huge amount of data there is no limit in cloud sdk) we can install google cloud sdk and connect to big query for uploading data we mwntioned the code in the below given image
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4d10292a-3b23-4366-aa3d-303bd0fa2a6c" />
+
 
 
 
