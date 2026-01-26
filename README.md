@@ -87,7 +87,7 @@ select * from table_name
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/295f291b-fef9-458c-9061-583b80c017e6" />
 
 ## statement in big query
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f78e12f9-ba4a-4343-bb43-79b34444ea9e" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/6e831257-1407-4396-9e68-36100199cbc3" />
 
 
 
