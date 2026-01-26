@@ -67,9 +67,11 @@
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/98576f3a-2b52-4ed8-bbf9-11c92b2f2540" />
 
 ## inserting data in big query - click on dataset on which we are uploading data and then click on create table and it will show multiple option and select upload option
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f17bd9a4-178b-421e-b275-b03d531a2bd1" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fc0d45c0-56d7-4daf-9ac9-d823e3dd9c49" />
+
 ## and in advanced option  you can give number of error allowed and it will ignore this number of error 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3392103a-6d3e-4ae9-aa90-14129159f615" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/789c4b51-1a06-455f-9f51-98d5b752c9dd" />
+
 
 
 
