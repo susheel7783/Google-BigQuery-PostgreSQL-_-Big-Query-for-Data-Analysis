@@ -71,6 +71,7 @@
 
 ## and in advanced option  you can give number of error allowed and it will ignore this number of error 
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/789c4b51-1a06-455f-9f51-98d5b752c9dd" />
+# and you can give 1 for skip header row
 
 
 
