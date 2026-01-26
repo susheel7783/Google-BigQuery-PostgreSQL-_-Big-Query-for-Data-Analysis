@@ -52,6 +52,16 @@
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/951c02d4-990f-4db3-81a3-2c1bb90db9b8" />
 
+## insert into big query 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/556232b1-2bef-408d-8c3e-a99ce26dfb19" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ac7b3659-2dc5-4e21-b8e8-b8ace27deabc" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/11d4093f-5efe-4036-b428-1edec73c15ee" />
+
+
+
+
 
 
 
