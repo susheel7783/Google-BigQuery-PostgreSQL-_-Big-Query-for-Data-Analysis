@@ -91,6 +91,12 @@ select * from table_name
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/64393dd4-f950-42af-a04b-e13347f9bf19" />
 
+## in big query we can't use alter or we can't delete any col we can't change any col data type we can only add new col
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f20d9549-4f1a-4537-b467-8935c88d9407" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/b88c5727-6873-4f73-970e-a889f758ab74" />
+
+
+
 
 
 
