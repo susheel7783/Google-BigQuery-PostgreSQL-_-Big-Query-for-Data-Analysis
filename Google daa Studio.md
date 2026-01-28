@@ -13,6 +13,9 @@ you can upload the data and select the chart
 and we can select any kind of color and theme
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5985793a-2d60-4277-b13c-fad6429d1391" />
 
+we can connect to any data source see the image 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1f546cf8-8777-41c8-96be-79e12fd8aa71" />
+
 
 
 
