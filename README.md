@@ -122,6 +122,30 @@ GROUP BY department;
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/91dcf5dc-8a32-4ced-9ff8-4d999d4bb02e" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/243ba12f-d0c2-4c4b-bc89-a0078103115b" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/9a1ca693-982f-4189-ba0f-4d3e5d13cdc0" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4d422f95-0a6b-4637-aeac-9b74ad70a010" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f628c361-fd56-4294-b812-2b3d96787646" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8217f1c2-312a-4ecf-981c-6e403b8fd418" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/a6d89493-93e4-47fa-8efb-c19eabc86495" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/833d4575-704a-4486-91ad-b91bf7c33f06" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/82590e3a-42d8-4e57-a615-7e5403ae3f0d" />
+
+## and we can write all kind of query in big query whatever we write in sql
+
+## google data studio for data visualization big query - in Google studio we will get all kind of charts and we can share the report
+let's plot the chart for this data
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/7702b2bb-1e32-48aa-b556-112399ee2e46" />
+see the number of customers from each of the countries
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/7b662718-68b0-4c1c-bc96-fa4b42747cb1" />
+
+
+
+
+
+
+
+
+
+
 
 
 
