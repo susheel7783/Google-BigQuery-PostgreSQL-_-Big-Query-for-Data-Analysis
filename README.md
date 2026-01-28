@@ -103,6 +103,34 @@ select name from Students where name Like'J%'  --start with J
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/66f22d0a-f53b-44c0-bdc3-4d4e8f43f625" />
 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/1e96a325-a39d-45ad-a603-fc0a5395bc47" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/d0604e40-d1a8-4c5e-b98e-70fc35c2cb6f" />
+
+SELECT
+  department,
+  COUNT(*) AS total_employees
+FROM `my_project.my_dataset.employees`
+GROUP BY department;
+
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/65f1e605-b93e-4dbb-8d14-2d460706f1fb" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/a19cfaf0-94b5-43b4-be61-646353e380ce" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4243bf1f-f89a-443b-beb4-152231506daf" />
+
+## join Concept
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/0ae7dbf3-6480-4264-a126-3c901a743997" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/91dcf5dc-8a32-4ced-9ff8-4d999d4bb02e" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/243ba12f-d0c2-4c4b-bc89-a0078103115b" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/9a1ca693-982f-4189-ba0f-4d3e5d13cdc0" />
+
+
+
+
+
+
+
+
+
 
 
 
