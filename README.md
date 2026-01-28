@@ -95,6 +95,14 @@ select * from table_name
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f20d9549-4f1a-4537-b467-8935c88d9407" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/b88c5727-6873-4f73-970e-a889f758ab74" />
 
+# between
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1238b3ce-d56f-4f9f-bd3d-a448fc1064df" />
+
+select name from Students where name Like'J%'  --start with J
+## BigQuery uses Standard SQL, so most SQL queries work with little or no change
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/66f22d0a-f53b-44c0-bdc3-4d4e8f43f625" />
+
 
 
 
