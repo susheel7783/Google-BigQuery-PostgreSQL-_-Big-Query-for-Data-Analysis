@@ -34,6 +34,29 @@ and we can select query setting option and
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3b214612-7285-4009-91db-a7aa3686f096" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/94f53224-56e2-46d1-bf1d-8bb45000db8c" />
 
+wildcard
+Wildcard tables in Google BigQuery allow for querying multiple tables with similar names using a single, concise SQL statement, enhancing scalability. They use a special character (*) to represent unknown characters in table names, enabling, for example, the querying of daily, partitioned tables (table_*). 
+
+if we want to fetch data from public we have to select on explore and select add data we will get multiple options, and we can select public datasets
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9c7ccd0b-d1d6-4074-b442-49748e03c8a8" />
+
+we selected this public dataset
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5b42c110-1cf5-47e4-94b6-a08f2e8699a7" />
+click on view dataset and it will load and we can use
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f3ceafcd-2d8c-450c-893d-8cea8178a871" />
+and new resource will be listed here containing many public dataset and we will seelect noaa gsod or req dataset
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c143953a-68e6-4366-8cea-d7480676c2a9" />
+and we can see the data 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2822c002-d785-4948-a56b-fc102da1a5ab" />
+here we can see we have data from 1929 and if we run normal query to get somethis it will be very difficult and time consuiming as we have to write query select query from table 1 then table 2 . and so on the same lenthy query we can write concise using  ## wildcard ## 
+let's we are trying to get maximum temp between 1950 to 1959 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e5da3d3b-422e-4325-9c51-5255223c2a68" />
+
+
+
+
+
+
 
 
 
