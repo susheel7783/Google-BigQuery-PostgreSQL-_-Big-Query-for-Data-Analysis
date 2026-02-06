@@ -11,7 +11,7 @@ and you can see dataset ccreated
 can craete unlimited datasets per project and we can craete unlimted taables but performance will reduce
 now see how to create table and upload the data .  select the dataset and then select on create table
 and will get multiple option if we ahve table then select upload option and upload the data using upload method have some limitation that file size must be less than 10 MB
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f3db54ef-8466-491b-b601-1e0fa18510d6" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f3db54top 10 mef-8466-491b-b601-1e0fa18510d6" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/be3fedc3-9d3b-490b-9de4-cdbf4a8595c8" />
 and we can add field like this or just click on Schema Autodetect
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cc9b8158-9aa0-4874-b10e-bb3215b27d57" />
@@ -21,6 +21,24 @@ and then craeet table and we can see the table craeted
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5fc9b961-f882-4b37-9393-4f5981510818" />
 after selecting the tabe select preview option to see the data and if you want to preview the data just click on preview don't run selct * query select query will charge something
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb5f7ea5-e98b-4a40-9ae4-0da9c281a1fd" />
+this is just one way of creating table and we have multiple way to create table 
+lets run some query
+
+top 10 male emp by count
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/bf43d887-589b-4bc7-b954-d53e38dc7cb8" />
+if i run the same query again, it will not charge, it will give the cache result
+click on the 3. and then more option select format to format the query
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0e9ec52b-d28d-4725-a7de-74f4a871e8c1" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/909453ff-0647-4fe3-9556-1db9fdf8a043" />
+and we can select query setting option and 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3b214612-7285-4009-91db-a7aa3686f096" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/94f53224-56e2-46d1-bf1d-8bb45000db8c" />
+
+
+
+
+
+
 
 
 
