@@ -51,6 +51,10 @@ and we can see the data
 here we can see we have data from 1929 and if we run normal query to get somethis it will be very difficult and time consuiming as we have to write query select query from table 1 then table 2 . and so on the same lenthy query we can write concise using  ## wildcard ## 
 let's we are trying to get maximum temp between 1950 to 1959 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e5da3d3b-422e-4325-9c51-5255223c2a68" />
+so it will check suffix of each table which have 195 like 1950,1951 .....1959
+
+# let we have to check for 1951 ,1952 and 1953 only 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fd344dd3-1dfc-43a3-892e-bee2f7fc2bcc" />
 
 
 
