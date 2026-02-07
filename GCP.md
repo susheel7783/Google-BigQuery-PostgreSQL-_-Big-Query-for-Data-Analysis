@@ -115,6 +115,36 @@ and similarly we can delete table andedit the schema
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/848f8bc2-8371-4962-abc0-5ada07d361a6" />
 to change Schema click on edit schema and change and we can add new col
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/85d610d1-9dd3-4f60-aea3-6043b86f8a4e" />
+but some operation we can't perform like changing the col name through UI and many more   so for this we have to change using query
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/62eb5ee0-4144-4c86-a29f-a1cfcc1fa693" />
+here we can ssee count renamed ti name_coubnt
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/726140cd-4693-4826-945c-681c6aaa5a30" />
+and we change data type of columns
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fcb61be2-64ce-4159-b1ed-10a72546ba4c" />
+see name count col became float
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/324218c8-d429-49b2-9ba6-5c1fdd3a53e9" />
+and we can do query like this
+
+and we restore the deleted col within time travel 
+# let's delete all the rows in names table
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/44a5e36c-8c3c-4fc8-a3c6-ac7a872a84d1" />
+see the table is empty
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0b88eb7b-2363-4ac5-8737-00a9f631b14f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/000d727a-ab25-49e9-8090-565f76b1d493" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fdcadc02-1ddd-4568-9cb6-7d0cfc6ef10e" />
+then run the written query for restore the data and we can see the data, data restored in th esame tables 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6618aa1d-4299-4fe7-8c8f-30f298ea355b" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
