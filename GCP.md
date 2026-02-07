@@ -60,6 +60,18 @@ and we can save and schedule query we can enable to view the query to project te
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/44037eb2-8928-4c26-a006-29793952b906" />
 and we can delete the dataset to avoid charge
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/721e99e9-25bb-4b9f-a1a4-c23fc77ad398" />
+select dataset and click on craete table then select upload and select file then file formaat and then click Schema auto detect
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/44fd538b-0d98-400f-a1ed-97c409e4b491" />
+then click on create table and we ccan see the table craeted and detected format automatically
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/716b3884-8e6d-42ef-991f-a27e50b85652" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1e7dac6b-fb27-4654-8cb3-704a27a7952d" />
+but don't rely on auto-detect cross check it once
+nested_data see the schema we set
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8e384f46-e2b4-498c-98e3-c6bf65c39153" />
+
+
+
+
 
 
 
