@@ -76,6 +76,26 @@ see th nested table created
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1543d855-4dfc-4f71-92b2-ee7ab95d211b" />
 and we can replace cross join by comma(,) intenally it is cross join
 
+# we can give acceess of dataset to others team members
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5e4a8e5c-de74-4253-b2e5-90a19a78df82" />
+we can give these access and add users
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5dfc367e-1b52-4f02-9897-8d5df07febe3" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a3cdc0e6-6b99-4bf7-999e-999139926686" />
+and see the different roles and give access for project only or dataset 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a32f6bb1-2c33-4afd-9554-a862b21c4d94" />
+see create new dataset and copy dataset
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0e2ceca2-23b2-4c61-a153-cae63af1db1b" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/860dddd6-7856-4c39-bfce-0f08fd430e13" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c1beb263-ae62-47c3-928b-edcbd0a46452" />
+for copy dataset select copy and you will get this and mention which dataset you want to copy
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb7db67d-1297-4c8e-9686-05ddff47a0fb" />
+
+
+
+
+
+
+
 
 
 
