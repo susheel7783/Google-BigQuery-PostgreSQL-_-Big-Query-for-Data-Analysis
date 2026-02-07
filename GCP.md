@@ -55,6 +55,13 @@ so it will check suffix of each table which have 195 like 1950,1951 .....1959
 
 # let we have to check for 1951 ,1952 and 1953 only 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fd344dd3-1dfc-43a3-892e-bee2f7fc2bcc" />
+and we can save and schedule query we can enable to view the query to project team and once the query saved it will come in the saved quwry and we can share the query to anyone it will give link for query
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6dece3be-a979-4a5e-a376-0c6879843154" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/44037eb2-8928-4c26-a006-29793952b906" />
+and we can delete the dataset to avoid charge
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/721e99e9-25bb-4b9f-a1a4-c23fc77ad398" />
+
+
 
 
 
