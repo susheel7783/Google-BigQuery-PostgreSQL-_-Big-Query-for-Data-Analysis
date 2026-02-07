@@ -66,8 +66,19 @@ then click on create table and we ccan see the table craeted and detected format
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/716b3884-8e6d-42ef-991f-a27e50b85652" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1e7dac6b-fb27-4654-8cb3-704a27a7952d" />
 but don't rely on auto-detect cross check it once
-nested_data see the schema we set
+# nested_data see the schema we set
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8e384f46-e2b4-498c-98e3-c6bf65c39153" />
+see th nested table created
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ca1924ac-bb23-4e08-9139-132171ccda81" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b54338e0-2d39-49ef-85fa-81a99507935e" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eed05911-bdfd-456d-ab42-ab0e8601af69" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1543d855-4dfc-4f71-92b2-ee7ab95d211b" />
+and we can replace cross join by comma(,) intenally it is cross join
+
+
+
+
 
 
 
