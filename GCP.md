@@ -154,3 +154,5 @@ and similarly we can delete table andedit the schema
 
 
 
+
+
