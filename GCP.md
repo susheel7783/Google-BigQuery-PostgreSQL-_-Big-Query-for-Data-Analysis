@@ -97,6 +97,13 @@ and then click on copy the data will be copied in dataset1_copy
 and we will see the data data copied in the dataset
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ed1dd4d1-a62e-4d8c-af1c-f9505bcd0e08" />
 copy dataset 2nd method  # transfer service for scheduling jobs seelct datatransfer option and then click on create transfer
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ca4f93b0-ef3f-40d4-83b1-54e7a5460fa0" />
+then select source dataset copy
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d70ba039-a8a0-45fe-8b88-4f482817e991" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c3f255aa-10b7-437c-b109-22e4d0402532" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/037733ad-63ce-4bbf-b005-3cb34bf2926d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/dc91b94d-4845-4eee-869a-560a25eea477" />
+
 
 
 
