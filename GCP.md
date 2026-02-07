@@ -113,6 +113,8 @@ we can see table copied to new table auto_detect_copy_table
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c2da9592-fb4a-4dc7-bbe4-62b9da18cb39" />
 and similarly we can delete table andedit the schema
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/848f8bc2-8371-4962-abc0-5ada07d361a6" />
+to change Schema click on edit schema and change and we can add new col
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/85d610d1-9dd3-4f60-aea3-6043b86f8a4e" />
 
 
 
