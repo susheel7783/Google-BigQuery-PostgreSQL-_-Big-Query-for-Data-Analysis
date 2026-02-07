@@ -103,6 +103,17 @@ then select source dataset copy
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c3f255aa-10b7-437c-b109-22e4d0402532" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/037733ad-63ce-4bbf-b005-3cb34bf2926d" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/dc91b94d-4845-4eee-869a-560a25eea477" />
+copied
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/70738e19-083e-47dd-8ad4-ded4ab798f9b" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/06be1fec-d2c6-454f-a89d-a3c87bff2b1e" />
+we can copy table click on table and then click on copy
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8ab15278-8ebd-48a9-bc78-12f20fda1c03" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/786c897a-9c51-46ef-8935-1fb32e23c2fb" />
+we can see table copied to new table auto_detect_copy_table
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c2da9592-fb4a-4dc7-bbe4-62b9da18cb39" />
+and similarly we can delete table andedit the schema
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/848f8bc2-8371-4962-abc0-5ada07d361a6" />
+
 
 
 
