@@ -85,10 +85,22 @@ and see the different roles and give access for project only or dataset
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a32f6bb1-2c33-4afd-9554-a862b21c4d94" />
 see create new dataset and copy dataset
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0e2ceca2-23b2-4c61-a153-cae63af1db1b" />
+instead of dataset2 we created dataset1_copy
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/860dddd6-7856-4c39-bfce-0f08fd430e13" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c1beb263-ae62-47c3-928b-edcbd0a46452" />
-for copy dataset select copy and you will get this and mention which dataset you want to copy
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb7db67d-1297-4c8e-9686-05ddff47a0fb" />
+for copy dataset select the source dataset and then select copy and you will get this and mention which dataset you want to copy
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f5a22de5-358a-44f5-8665-427a856ce8c4" />
+and then click on copy the data will be copied in dataset1_copy
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ea11e054-7d60-4a7c-b9d3-c79a773e45cb" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1dc36c78-d922-4c28-8645-a7c1aa92ea88" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5278ff71-d1eb-4218-97d6-d4a29d9b6f77" />
+and we will see the data data copied in the dataset
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ed1dd4d1-a62e-4d8c-af1c-f9505bcd0e08" />
+
+
+
+
+
 
 
 
