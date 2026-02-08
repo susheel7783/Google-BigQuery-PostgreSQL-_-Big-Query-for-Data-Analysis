@@ -134,6 +134,16 @@ see the table is empty
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fdcadc02-1ddd-4568-9cb6-7d0cfc6ef10e" />
 then run the written query for restore the data and we can see the data, data restored in th esame tables 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6618aa1d-4299-4fe7-8c8f-30f298ea355b" />
+if query is not dependent then it will run paralelly
+# let's see partition by ingestion time
+load the data and then select 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3d236720-efec-4e11-8561-7d50ca1d78fe" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/19d1a4ef-540b-405d-8be6-30f0aacc95c2" />
+table created
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e7f7004e-4d60-420b-8ded-c50d79f18871" />
+
+
+
 
 
 
