@@ -145,6 +145,12 @@ select legacy to run the below query
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/45d887af-eb2e-4e4f-8c1d-db1f0fe067f5" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/61ae849e-c3b0-400c-bbe8-a199bf37b1b1" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e80c130f-78fc-4ea5-9458-05c271b07fd5" />
+partition by field
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2eb2fad9-0fbe-4876-9d4d-ffb9db8440a5" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fe5828cc-ae39-4dcb-a835-5030aa7d2441" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fa12a992-0790-4c1c-8683-ff26aa547570" />
+
+
 
 
 
