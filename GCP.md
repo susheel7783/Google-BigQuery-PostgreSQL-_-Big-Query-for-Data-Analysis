@@ -141,6 +141,12 @@ load the data and then select
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/19d1a4ef-540b-405d-8be6-30f0aacc95c2" />
 table created
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e7f7004e-4d60-420b-8ded-c50d79f18871" />
+select legacy to run the below query
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/45d887af-eb2e-4e4f-8c1d-db1f0fe067f5" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/61ae849e-c3b0-400c-bbe8-a199bf37b1b1" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e80c130f-78fc-4ea5-9458-05c271b07fd5" />
+
+
 
 
 
