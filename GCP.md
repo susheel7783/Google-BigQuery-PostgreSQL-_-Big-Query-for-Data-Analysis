@@ -149,6 +149,43 @@ partition by field
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2eb2fad9-0fbe-4876-9d4d-ffb9db8440a5" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fe5828cc-ae39-4dcb-a835-5030aa7d2441" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fa12a992-0790-4c1c-8683-ff26aa547570" />
+earlier we loaded data to big query and then querying
+## loading and querying data from external data source from real world plateform it can bee GCP or others cloud storage
+and it can be in any format csv 
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fc89bf3e-17e7-4f37-8f98-0d5dd05b1495" />
+first create bucket 
+in gcp go to storage and create a bucket give name f the bucket 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/17e68598-f6b2-4654-85c1-24da2521ccb6" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5cd68ea0-b7a7-4bae-a634-a3198fd492f1" />
+
+select standard
+and select by default
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/435c45be-9e8d-4c31-bfb8-3ae4a7a48d7d" />
+a bucket will be created
+and we can upload  the file
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/200d770f-2742-4a93-93ff-ba82aabd0bcd" />
+even we are uploading file from locally but assume this will come from our project which is running on GCP
+our buckect is ready and data loaded
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2743b223-4b6a-47b8-aac1-c3078d08ec41" />
+now go to big query for querying and select a dataset and cretae a table  
+and select Google cloud storage select the bucket and files in bucket
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a1e9126f-429c-4ae9-a980-b738b88e62de" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b3057660-c4bd-4111-bee0-76a6cf413e5d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4cc958ab-3d91-4b1a-a85b-6e483a3ddd54" />
+click on create table table will be created
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4f713e0d-e572-4564-9997-9aa6079c386a" />
+
+here we can see we got native_tab
+
+
+
+
+
 
 
 
