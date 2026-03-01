@@ -182,7 +182,12 @@ click on create table table will be created
 
 here we can see we got native_tab
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3e1ce448-43ca-41dd-bb0c-03d33a498557" />
 
+here we have two different types of table native table and external table 
+creating both in similar way just select native for native and external for external table
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/160b2446-593a-43be-aa65-b5ae8f0331dd" />
+for external table we can't preview by clicking on the table we have to write query to see the external table
 
 
 
